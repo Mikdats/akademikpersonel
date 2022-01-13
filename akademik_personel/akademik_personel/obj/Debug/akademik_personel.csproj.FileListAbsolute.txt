@@ -1,0 +1,7 @@
+C:\Users\303MİKDAT_AKSAM\Source\Repos\akademik_personel\akademik_personel\bin\Debug\akademik_personel.exe.config
+C:\Users\303MİKDAT_AKSAM\Source\Repos\akademik_personel\akademik_personel\bin\Debug\akademik_personel.exe
+C:\Users\303MİKDAT_AKSAM\Source\Repos\akademik_personel\akademik_personel\bin\Debug\akademik_personel.pdb
+C:\Users\303MİKDAT_AKSAM\Source\Repos\akademik_personel\akademik_personel\obj\Debug\akademik_personel.csproj.AssemblyReference.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\akademik_personel\akademik_personel\obj\Debug\akademik_personel.csproj.CoreCompileInputs.cache
+C:\Users\303MİKDAT_AKSAM\Source\Repos\akademik_personel\akademik_personel\obj\Debug\akademik_personel.exe
+C:\Users\303MİKDAT_AKSAM\Source\Repos\akademik_personel\akademik_personel\obj\Debug\akademik_personel.pdb
